@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity;
 
 namespace TodoAPI.Authentication
 {
-    public class ApplicationUser
+    public class ApplicationUser: IdentityUser
     {
     }
 }
