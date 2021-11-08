@@ -8,7 +8,6 @@ A simple note taker api.
  * [Technologies](#technologies-used)
  * [Installation](#installation)
  * [License](#license)
- * [Url](#application-url)
 
 ## Installation
 
