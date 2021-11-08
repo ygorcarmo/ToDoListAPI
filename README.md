@@ -17,7 +17,7 @@ Visual studio is necessary to run the project localy.
 ## Technologies Used
      - C#
      - Swagger
-     - JWT Athentication
+     - JWT Authentication
      - SQL
 
 ## License
